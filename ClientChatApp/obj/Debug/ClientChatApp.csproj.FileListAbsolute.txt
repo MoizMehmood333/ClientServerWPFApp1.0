@@ -1,0 +1,16 @@
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientChatApp\bin\Debug\ClientChatApp.exe.config
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientChatApp\bin\Debug\ClientChatApp.exe
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientChatApp\bin\Debug\ClientChatApp.pdb
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientChatApp\obj\Debug\ClientChatApp.csproj.AssemblyReference.cache
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientChatApp\obj\Debug\ClientChatApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientChatApp\obj\Debug\MainWindow.g.cs
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientChatApp\obj\Debug\App.g.cs
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientChatApp\obj\Debug\ClientChatApp_MarkupCompile.cache
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientChatApp\obj\Debug\ClientChatApp_MarkupCompile.lref
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientChatApp\obj\Debug\MainWindow.baml
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientChatApp\obj\Debug\ClientChatApp.g.resources
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientChatApp\obj\Debug\ClientChatApp.Properties.Resources.resources
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientChatApp\obj\Debug\ClientChatApp.csproj.GenerateResource.cache
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientChatApp\obj\Debug\ClientChatApp.csproj.CoreCompileInputs.cache
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientChatApp\obj\Debug\ClientChatApp.exe
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientChatApp\obj\Debug\ClientChatApp.pdb
